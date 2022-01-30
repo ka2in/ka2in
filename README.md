@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ka2in
 - 👀 I’m interested in software documentation, front & backend web development, markup languages, UI and UX design;
 - 🌱 I’m currently learning AsciiDoc in conjunction with Antora; 
-- 💞️ I’m looking to collaborate on documentation projects;
+- 💞️ I’m looking to collaborate on software documentation projects;
 - 📫 How to reach me: ka2in@protonmail.com
 
 <!---
