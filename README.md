@@ -7,7 +7,7 @@
   - UI and UX design
 - 🌱 I’m currently learning [AsciiDoc](https://asciidoc.org/) in conjunction with [Antora](https://antora.org/) 
 - 💞️ I’m looking to collaborate on software documentation projects
-- 📫 How to reach me: ka2in@protonmail.com
+- 📫 How to reach me: info@globaltech-translations.com
 
 <!---
 ka2in/ka2in is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
