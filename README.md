@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @ka2in
 - 👀 I’m a tech writer interested in: 
-  - software documentation 
-  - front & backend web development
+  - software documentation
   - markup languages
   - structured authoring 
   - UI and UX design
+  - front & backend web development
 - 🌱 I’m currently learning [AsciiDoc](https://asciidoc.org/) in conjunction with [Antora](https://antora.org/) 
 - 💞️ I’m looking to collaborate on software documentation projects
 - 📫 How to reach me: info@globaltech-translations.com
